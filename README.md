@@ -1,18 +1,34 @@
 
-# 🐍 Python Vibes: Code, Create, Conquer 🎨
+![Logo](https://cdn.worldvectorlogo.com/logos/python-3.svg)
 
-Welcome to the **Python Playground**—your ultimate spot for experimenting with Python magic! 🌟
 
-## What's the Buzz? 🐝
+# Python Programming (CS50)
 
-This repo is packed with cool projects, scripts, and hacks to boost your Python skills. Perfect for beginners and pros ready to level up! 🚀
+A collection of Python code solutions developed during the CS50 Python course, showcasing core concepts and problem-solving skills.
 
-## Features 🎉
 
-- **Slick Scripts:** Handy tools and utilities for everyday tasks.
-- **Project Power:** Real-world projects to flex your coding muscles.
-- **Tips & Tricks:** Boost your efficiency with pro tips.
+## Screenshots
+![Screenshot 2024-12-14 105046](https://github.com/user-attachments/assets/470f4b0e-dc4f-44b5-ae73-be4260b5813b)
+![Screenshot 2024-12-14 105350](https://github.com/user-attachments/assets/8a0ce9b9-0dad-43ff-ae9b-dfac82631630)
+![Screenshot 2024-12-14 110448](https://github.com/user-attachments/assets/69ef4fda-1200-4d28-a2f3-88a62390e62d)
 
-## Dive In! 💡
 
-Clone the repo, explore the code, and let’s create something epic. Contributions welcome—let’s grow this Python fam together! 👐
+
+## Tech Stack
+
+**Language:** Python Programming
+
+**IDE:** Jupyter Notebook
+
+
+## Authors
+
+- [@aliiakbarkhan](https://www.github.com/aliiakbarkhan)
+
+
+## Related
+
+Here are some related projects
+
+[Java Programming](https://github.com/aliiakbarkhan/jubilant-java-tree/)
+
